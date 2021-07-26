@@ -15,7 +15,7 @@ An app where you can sell, buy and bid on old used products. Such as old newspap
 ![WhatsApp Image 2021-07-25 at 7 12 56 AM](https://user-images.githubusercontent.com/81440732/126968262-69f2e565-b124-459d-bde0-643a333be043.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (1)](https://user-images.githubusercontent.com/81440732/126968433-86c5ca57-0525-42df-bea9-43a9fbd4edc1.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (2)](https://user-images.githubusercontent.com/81440732/126968624-11c7fb4e-860c-4c18-b661-80d3585c1326.png)
 ### Sell Product
 ![WhatsApp Image 2021-07-25 at 7 12 56 AM (3)](https://user-images.githubusercontent.com/81440732/126968825-475a9326-233c-470a-bcc5-df7e304ec1d3.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (4)](https://user-images.githubusercontent.com/81440732/126968905-7126ccef-42ed-4ea6-8811-7a984489d815.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (5)](https://user-images.githubusercontent.com/81440732/126969070-fd4e29f6-9fce-4ccd-abfd-bcdebfd690e4.png)
-### Products For Sell by Category---------------------------------------------My Products---------------
+### Products For Sell by Category---------------------------------------------My Products---------
 ![WhatsApp Image 2021-07-25 at 7 12 56 AM (6)](https://user-images.githubusercontent.com/81440732/126969382-990d0334-b13c-430f-b55b-bbb4bd0028ff.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (7)](https://user-images.githubusercontent.com/81440732/126969552-1ede6435-c93a-4412-a508-ab7d00404ac0.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (8)](https://user-images.githubusercontent.com/81440732/126969750-3f1798ee-d349-4cf8-94d1-cc9d763c0312.png)
 
 ### Place Bid
