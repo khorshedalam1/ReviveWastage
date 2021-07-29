@@ -1,19 +1,19 @@
 # ReviveWastage V2.0
-### ReviveWastage V1 was developed by Avijit Bhaiya in 2020. 
-In June,2021 I have been appointed to make another update of this app.
-Where I've added new features like otp signup,user session, seller can track their product bids and buyer can make
-bid and finally notifications. 
+### (The older Version of app) ReviveWastage V1 was developed by Avijit Bhaiya in 2020. 
+# In June,2021 I have been appointed to make another update of this app.
+## Where I've added new features like category based products,otp signup,user session, seller can track their product bids, buyer can place bids and finally notifications. 
 ## About app:
 An app where you can sell, buy and bid on old used products. Such as old newspapers etc.
-1. User login with user session.
-2. Otp signup
+1. User login with user session. (NEW UPDATE!!!)
+2. Otp signup (NEW UPDATE!!!)
 3. User can sell products
 4. Other user can set bid for products.
-5. Seller can track, accept, reject bids from "My Products" activity.
-6. If an order gets accepted by seller. Then buyer will receive Notification.
-7. After receiving Notification buyer can confirm order by giving following details(name,phone,address,payment method)
-8. If someone misses notification by mistake then he/she can track notification by this 🛎️ emoji in Deshboard Navbar.
-9. All products are arranged in categories as per client’s requirement.
+5. Seller can track, accept, reject bids from "My Products" activity. (NEW UPDATE!!!)
+6. If an order gets accepted by seller. Then buyer will receive Notification. (NEW UPDATE!!!)
+7. After receiving Notification buyer can confirm order by giving following details(name,phone,address,payment method) (NEW UPDATE!!!)
+8. If someone misses notification by mistake then he/she can track notification by this 🛎️ emoji in Deshboard Navbar. (NEW UPDATE!!!)
+9. All products are arranged in categories as per client’s requirement. (NEW UPDATE!!!)
+10. New UI. (NEW UPDATE!!!)
 
 ### UI
 ![WhatsApp Image 2021-07-25 at 7 12 56 AM](https://user-images.githubusercontent.com/81440732/126968262-69f2e565-b124-459d-bde0-643a333be043.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (1)](https://user-images.githubusercontent.com/81440732/126968433-86c5ca57-0525-42df-bea9-43a9fbd4edc1.png) ![WhatsApp Image 2021-07-25 at 7 12 56 AM (2)](https://user-images.githubusercontent.com/81440732/126968624-11c7fb4e-860c-4c18-b661-80d3585c1326.png)
