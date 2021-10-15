@@ -1,3 +1,5 @@
+Email: mohdkhurshed120@gmail.com
+pass: 12345
 # ReviveWastage V2.0
 ### (The older Version of app) ReviveWastage V1 was developed by Avijit Bhaiya in 2020. 
 # In June,2021 I have been appointed to make another update of this app.
