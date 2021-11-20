@@ -3,7 +3,7 @@ pass: 12345
 # ReviveWastage V2.0
 ### (The older Version of app) ReviveWastage V1 was developed by Avijit Bhaiya in 2020. 
 # In June,2021 I have been appointed to make another update of this app.
-## Where I've added new features like category based products,otp signup,user session, seller can track their product bids, buyer can place bids and finally notifications. 
+## Where I've added new features like category based products,otp signup,user session, seller can track their product bids, buyer can place bids,track bid requests and finally notifications. 
 ## About app:
 An app where you can sell, buy and bid on old used products. Such as old newspapers etc.
 1. User login with user session. (NEW UPDATE!!!)
