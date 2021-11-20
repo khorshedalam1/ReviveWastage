@@ -1,4 +1,4 @@
-Email: mohdkhurshed120@gmail.com
+Email: revive_wastage@gmail.com
 pass: 12345
 # ReviveWastage V2.0
 ### (The older Version of app) ReviveWastage V1 was developed by Avijit Bhaiya in 2020. 
@@ -16,6 +16,7 @@ An app where you can sell, buy and bid on old used products. Such as old newspap
 8. If someone misses notification by mistake then he/she can track notification by this 🛎️ emoji in Deshboard Navbar. (NEW UPDATE!!!)
 9. All products are arranged in categories as per client’s requirement. (NEW UPDATE!!!)
 10. New UI. (NEW UPDATE!!!)
+11. Bid request section.
 
 ### UI
 ![WhatsApp Image 2021-07-25 at 7 12 56 AM](https://user-images.githubusercontent.com/81440732/126968262-69f2e565-b124-459d-bde0-643a333be043.png)!![1635189330469 (1)](https://user-images.githubusercontent.com/81440732/138758058-305341c7-ab49-4bd7-a342-673df951b0ab.png) ![1635189330466](https://user-images.githubusercontent.com/81440732/138758096-2f708abe-0fea-46c7-b1d8-9dbb7d725fa6.png)
